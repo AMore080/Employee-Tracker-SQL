@@ -1,6 +1,9 @@
 # Employee-Tracker-SQL
 Command-line application that displays an interface for easy navigation through a database using SQL
 
+# Usage
+Create, Read, Update, and Delete employees using the terminal. A list of choices is displayed for the user to navigate and manage their employees. 
+
 # Features
 - SQL
 - NodeJS
