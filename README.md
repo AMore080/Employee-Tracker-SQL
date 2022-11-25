@@ -11,5 +11,12 @@ Create, Read, Update, and Delete employees using the terminal. A list of choices
 - MySQL2
 - Chalk (Color in the console)
 
+# Installation
+Clone repo and initialize with
+```
+npm -i
+```
+
+
 # Screenshot 
 ![image](https://user-images.githubusercontent.com/105891447/203858996-814d4946-6dd1-4d3a-ab9b-1bb788945f52.png)
